@@ -21,6 +21,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkep&layout=compact)](https://github.com/zkep)
 
 
-![zkep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkep&show_icons=true&theme=merko)
+[![zkep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkep&show_icons=true&theme=merko)](https://github.com/zkep)
 
 
