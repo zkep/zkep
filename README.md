@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **https://zkep.github.io/**
 
-- 📫 How to reach me **zkepxly@gmail.com**
+- 📫 How to reach me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
