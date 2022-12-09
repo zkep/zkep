@@ -18,5 +18,10 @@
 <p><a href="https://www.buymeacoffee.com/hkxs8z69y7F"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hkxs8z69y7F" /></a></p><br><br><br><br>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkep&layout=compact)](https://github.com/zkep/github-readme-stats)
 
-[![zkep's github stats](https://github-readme-stats.vercel.app/api?username=zkep)](https://github.com/zkep/github-readme-stats)
+
+
+![zkep's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkep&show_icons=true&theme=merko)
+
+
