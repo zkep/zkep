@@ -1,10 +1,6 @@
 ## Hello, World
 
-![](images/calvin-and-hobbes.gif)
-
-
-![](https://github-readme-stats.vercel.app/api?username=zkep&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+![](https://raw.githubusercontent.com/zkep/zkep/master/images/calvin-and-hobbes.gif)
 
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm zkep, a server Engineer from China, also dabbling a bit in Go, Swift, Python.  Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas. The content below is automatically updated via <a href="https://github.com/zkep/zkep/actions" target="_blank">Actions</a>:
 
