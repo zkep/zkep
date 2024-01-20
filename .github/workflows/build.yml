@@ -29,6 +29,8 @@ jobs:
     - name: Update README
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        WEEKLY_RSS_URL: ${{ secrets.WEEKLY_RSS_URL }}
+        BLOG_RSS_URL: ${{ secrets.BLOG_RSS_URL }}
       run: |-
         python build_readme.py
         cat README.md

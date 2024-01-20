@@ -10,7 +10,8 @@ client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
-
+WEEKLY_RSS_URL = os.environ.get("WEEKLY_RSS_URL", "")
+BLOG_RSS_URL = os.environ.get("BLOG_RSS_URL", "")
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
@@ -98,7 +99,7 @@ def fetch_releases(oauth_token):
     return releases
 
 def fetch_weekly():
-    content = feedparser.parse("https://zkep.github.io/atom.xml")["entries"]
+    content = feedparser.parse(WEEKLY_RSS_URL)["entries"]
     entries = [
         "* <a href='{url}' target='_blank'>{title}</a> - {published}".format(
             title=entry["title"],
@@ -114,7 +115,7 @@ def fetch_weekly():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://zkep.github.io/atom.xml")["entries"]
+    entries = feedparser.parse(BLOG_RSS_URL)["entries"]
     return [
         {
             "title": entry["title"],
