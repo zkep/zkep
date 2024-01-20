@@ -49,11 +49,7 @@
 
 <!-- weekly starts -->
 
-* <a href='https://zkep.github.io/2021/04/17/go/design/22_mediator/' target='_blank'>中介模式</a> - 2021-04-17
-* <a href='https://zkep.github.io/2021/04/16/go/design/21_interpreter/' target='_blank'>解释器模式</a> - 2021-04-16
-* <a href='https://zkep.github.io/2021/04/15/go/design/20_command/' target='_blank'>命令模式</a> - 2021-04-15
-* <a href='https://zkep.github.io/2021/04/14/go/design/19_memento/' target='_blank'>备忘录模式</a> - 2021-04-14
-* <a href='https://zkep.github.io/2021/04/13/go/design/18_visitor/' target='_blank'>访问者模式</a> - 2021-04-13
+* <a href='http://weekly.anyfun.tech/2024/01/20/hello-weekly/' target='_blank'>Hello Weekly</a> - 2024-01-20
 <!-- weekly ends -->
 
 </td>
