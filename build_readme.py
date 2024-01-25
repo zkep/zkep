@@ -9,7 +9,7 @@ root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
-TOKEN = os.environ.get("GITHUB_TOKEN", "")
+TOKEN = os.environ.get("GIT_TOKEN", "")
 WEEKLY_RSS_URL = os.environ.get("WEEKLY_RSS_URL", "")
 BLOG_RSS_URL = os.environ.get("BLOG_RSS_URL", "")
 

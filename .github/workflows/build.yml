@@ -28,7 +28,7 @@ jobs:
         python -m pip install -r requirements.txt
     - name: Update README
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
         WEEKLY_RSS_URL: ${{ secrets.WEEKLY_RSS_URL }}
         BLOG_RSS_URL: ${{ secrets.BLOG_RSS_URL }}
       run: |-
