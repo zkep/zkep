@@ -45,7 +45,7 @@
 
 <!-- weekly starts -->
 
-* <a href='http://weekly.anyfun.tech/2024/01/20/hello-weekly/' target='_blank'>Hello Weekly</a> - 2024-01-20
+
 <!-- weekly ends -->
 
 </td>
