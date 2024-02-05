@@ -31,11 +31,11 @@
 #### 🤾‍♂️ <a href="https://zkep.github.io" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://zkep.github.io/40508.html' target='_blank'>windows开启OpenSHH远程访问</a> - 2024-02-05
 * <a href='https://zkep.github.io/54294.html' target='_blank'>ZeroTier组建公网可访问局域网络</a> - 2024-01-23
 * <a href='https://zkep.github.io/go/design/mediator.html' target='_blank'>中介模式</a> - 2021-04-17
 * <a href='https://zkep.github.io/go/design/interpreter.html' target='_blank'>解释器模式</a> - 2021-04-16
 * <a href='https://zkep.github.io/go/design/command.html' target='_blank'>命令模式</a> - 2021-04-15
-* <a href='https://zkep.github.io/go/design/memento.html' target='_blank'>备忘录模式</a> - 2021-04-14
 <!-- blog ends -->
 
 </td>
