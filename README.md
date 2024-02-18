@@ -31,11 +31,11 @@
 #### 🤾‍♂️ <a href="https://zkep.github.io" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://zkep.github.io/49176.html' target='_blank'>docker容器内使用root用户安装其他软件</a> - 2024-02-18
 * <a href='https://zkep.github.io/56953.html' target='_blank'>移动光猫获取超管密码</a> - 2024-02-07
 * <a href='https://zkep.github.io/40509.html' target='_blank'>C语言基本语法</a> - 2024-02-06
 * <a href='https://zkep.github.io/55384.html' target='_blank'>git多用户配置</a> - 2024-02-05
 * <a href='https://zkep.github.io/40508.html' target='_blank'>windows开启OpenSSH远程访问</a> - 2024-02-05
-* <a href='https://zkep.github.io/54294.html' target='_blank'>ZeroTier组建公网可访问局域网络</a> - 2024-01-23
 <!-- blog ends -->
 
 </td>
