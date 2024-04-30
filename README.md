@@ -45,7 +45,8 @@
 
 <!-- weekly starts -->
 
-
+* <a href='http://weekly.anyfun.tech/2024/01/29/year-vision/' target='_blank'>2024愿景</a> - 2024-01-29
+* <a href='http://weekly.anyfun.tech/2024/01/20/hello-weekly/' target='_blank'>Hello Weekly</a> - 2024-01-20
 <!-- weekly ends -->
 
 </td>
