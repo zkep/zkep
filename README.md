@@ -20,7 +20,7 @@
 #### 🪂 <a href="https://github.com/zkep/zkep/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/zkep/mygeektime/releases/tag/v0.0.1' target='_blank'>mygeektime v0.0.1</a> - 2024-12-22
+* <a href='https://github.com/zkep/mygeektime/releases/tag/v0.0.1' target='_blank'>mygeektime v0.0.1</a> - 2024-12-23
 * <a href='https://github.com/zkep/Daily/releases/tag/v0.0.1' target='_blank'>Daily releases daily</a> - 2024-01-20
 <!-- recent_releases ends -->
 
