@@ -9,7 +9,7 @@ root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
-TOKEN = os.environ.get("GIT_TOKEN", "")
+TOKEN = os.environ.get("GIT_TOKEN", "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")
 WEEKLY_RSS_URL = os.environ.get("WEEKLY_RSS_URL", "")
 BLOG_RSS_URL = os.environ.get("BLOG_RSS_URL", "")
 
@@ -161,20 +161,20 @@ if __name__ == "__main__":
     )
     project_releases.open("w").write(project_releases_content)
 
-    weekly_text = "\n" + fetch_weekly()
-    rewritten = replace_chunk(rewritten, "weekly", weekly_text)
+    # weekly_text = "\n" + fetch_weekly()
+    # rewritten = replace_chunk(rewritten, "weekly", weekly_text)
 
-    entries = fetch_blog_entries()[:5]
-    entries_md = "\n".join(
-        [
-            "* <a href='{url}' target='_blank'>{title}</a> - {published}".format(
-                **entry
-            )
-            for entry in entries
-        ]
-    )
-    rewritten = replace_chunk(rewritten, "blog", entries_md)
+    # entries = fetch_blog_entries()[:5]
+    # entries_md = "\n".join(
+    #     [
+    #         "* <a href='{url}' target='_blank'>{title}</a> - {published}".format(
+    #             **entry
+    #         )
+    #         for entry in entries
+    #     ]
+    # )
+    # rewritten = replace_chunk(rewritten, "blog", entries_md)
 
-    print("rewritten>>>>>>",rewritten)
+    # print("rewritten>>>>>>",rewritten)
 
     readme.open("w").write(rewritten)
