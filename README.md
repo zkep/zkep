@@ -26,32 +26,5 @@
 
 </td>
 </tr>
-<tr>
-<td valign="top" width="50%">
-
-#### 🤾‍♂️ <a href="https://zkep.github.io" target="_blank">Recent Blog</a>
-
-<!-- blog starts -->
-* <a href='https://zkep.github.io/30180.html' target='_blank'>极客时间资源下载工具</a> - 2024-12-14
-* <a href='https://zkep.github.io/27208.html' target='_blank'>网络地址转换协议NAT</a> - 2024-02-22
-* <a href='https://zkep.github.io/49176.html' target='_blank'>docker容器内使用root用户安装其他软件</a> - 2024-02-18
-* <a href='https://zkep.github.io/56953.html' target='_blank'>移动光猫获取超管密码</a> - 2024-02-07
-* <a href='https://zkep.github.io/40509.html' target='_blank'>C语言基本语法</a> - 2024-02-06
-<!-- blog ends -->
-
-</td>
-<td valign="top" width="50%">
-
-#### 🩴 <a href="https://weekly.anyfun.tech" target="_blank">Trend Weekly</a>
-
-<!-- weekly starts -->
-
-* <a href='http://weekly.anyfun.tech/2024/05/03/clir/' target='_blank'>clir 零依赖命令行工具</a> - 2024-05-03
-* <a href='http://weekly.anyfun.tech/2024/01/29/year-vision/' target='_blank'>2024愿景</a> - 2024-01-29
-* <a href='http://weekly.anyfun.tech/2024/01/20/hello-weekly/' target='_blank'>Hello Weekly</a> - 2024-01-20
-<!-- weekly ends -->
-
-</td>
-</tr>
 
 </table>
