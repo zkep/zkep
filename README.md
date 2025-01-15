@@ -22,7 +22,6 @@
 <!-- recent_releases starts -->
 * <a href='https://github.com/zkep/mygeektime/releases/tag/v0.0.2' target='_blank'>mygeektime v0.0.2</a> - 2025-01-13
 * <a href='https://github.com/zkep/heya/releases/tag/v0.0.2' target='_blank'>heya v0.0.2</a> - 2025-01-05
-* <a href='https://github.com/zkep/Daily/releases/tag/v0.0.1' target='_blank'>Daily releases daily</a> - 2024-01-20
 <!-- recent_releases ends -->
 
 </td>
