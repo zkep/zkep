@@ -2,7 +2,19 @@
 
 ![](https://raw.githubusercontent.com/zkep/zkep/master/images/calvin-and-hobbes.gif)
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm zkep, a server Engineer from China, also dabbling a bit in Go, Swift, Python.  Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas. The content below is automatically updated via <a href="https://github.com/zkep/zkep/actions" target="_blank">Actions</a>:
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm zkep
+
+十年开发，小公司常客，技不精，专不透，身渐衰，鬓已秋。
+
+现状： 待失业，赔偿金，速躺平
+
+愿景： 世界无产阶级开发者大团结万岁🎉
+
+最近在做的事情：开源 得到读书 10万+ 本电子书项目
+
+长期做的事情：为世界无产阶级开发者突破资本家设置的电子围栏
+
+
 
 <table width="960px">
 <tr>
