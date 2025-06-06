@@ -4,7 +4,6 @@
 
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm zkep
 
-十余载一线，小厂平常客，技不精，专不透，身已倦，鬓渐秋
 
 现状： 成长中...
 
