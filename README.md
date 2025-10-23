@@ -5,9 +5,9 @@
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm zkep
 
 
-现状： 成长中...
+现状： 素质不详，遇强则强 🧱 / 9号fz110大叔🧍‍♂️ / 西苑针灸科长期患者 🤢 ...
 
-愿景： 世界无产阶级开发者大团结万岁🎉
+愿景： 世界无产阶级开发者大团结万岁 🎉
 
 
 
