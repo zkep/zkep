@@ -28,7 +28,7 @@
 #### 🪂 <a href="https://github.com/zkep/zkep/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/zkep/my-geektime/releases/tag/v0.0.9' target='_blank'>my-geektime v0.0.9</a> - 2025-08-26
+* <a href='https://github.com/zkep/my-geektime/releases/tag/v0.10' target='_blank'>my-geektime v0.10</a> - 2025-11-06
 * <a href='https://github.com/zkep/heya/releases/tag/v0.0.2' target='_blank'>heya v0.0.2</a> - 2025-01-05
 <!-- recent_releases ends -->
 
